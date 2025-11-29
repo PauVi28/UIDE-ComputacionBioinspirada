@@ -4,8 +4,10 @@
 Este repositorio contiene el material académico correspondiente al curso de maestría orientado al estudio y aplicación de técnicas de optimización basadas en computación bioinspirada.
 
 ## 👨‍🏫 Docentes
-- **PhD. Marcelo Guato** – Docente titular  
-- **PhD. Paulina Vizcaíno** – Docente tutora  
+- **PhD. Marcelo Guato** – Docente titular
+- eMail: maguatobu@uide.edu.ec
+- **PhD. Paulina Vizcaíno** – Docente tutora
+- eMail: pvizcaino@uide.edu.ec
 
 ---
 
