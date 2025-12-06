@@ -5,10 +5,10 @@ Este repositorio contiene el material académico correspondiente al curso de mae
 
 ## 👨‍🏫 Docentes
 - **PhD. Marcelo Guato** – Docente titular
-- eMail: maguatobu@uide.edu.ec
+  - eMail: maguatobu@uide.edu.ec
 - **PhD. Paulina Vizcaíno** – Docente tutora
-- eMail: pvizcaino@uide.edu.ec
-- https://www.linkedin.com/in/paulina-vizcaino/
+  - eMail: pvizcaino@uide.edu.ec
+  - https://www.linkedin.com/in/paulina-vizcaino/
 
 ---
 
