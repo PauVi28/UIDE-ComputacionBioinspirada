@@ -8,6 +8,7 @@ Este repositorio contiene el material académico correspondiente al curso de mae
 - eMail: maguatobu@uide.edu.ec
 - **PhD. Paulina Vizcaíno** – Docente tutora
 - eMail: pvizcaino@uide.edu.ec
+- https://www.linkedin.com/in/paulina-vizcaino/
 
 ---
 
