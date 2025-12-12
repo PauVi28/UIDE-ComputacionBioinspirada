@@ -1,4 +1,4 @@
-Este repositorio contiene el material académico correspondiente a la tercera semana del curso, centrada en la aplicación de la computación bioinspirada para la resolución de problemas de aprendizaje y optimización con múltiples criterios.
+Este repositorio contiene el material académico correspondiente a la tercera semana del asignatura, centrada en la aplicación de la computación bioinspirada para la resolución de problemas de aprendizaje y optimización con múltiples criterios.
 
 ## 📘 Introducción
 
